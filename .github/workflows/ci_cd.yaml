@@ -76,7 +76,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: shivam13juna/create-repo:latest
+          tags: gaurav13187/create-repo:latest
 
 
 #I have commented out all the following deployment code because  AWS needs to be live, which is not going to be the case every time I push for future sessions. Still, the code is completely functional. Do all the steps we have discussed in class and it will work.
